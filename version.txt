@@ -1,3 +1,4 @@
-1.0.1
+1.0.2
 - Nâng cấp Mail Merge có thêm nút Lưu nháp & Chống gửi trùng
-- Sửa lỗi xếp phòng chọn tối đa 8 thành viên
+- Test thử thôi
+
