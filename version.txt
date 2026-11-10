@@ -1,4 +1,6 @@
-1.0.2
+1.0.3
 - Nâng cấp Mail Merge có thêm nút Lưu nháp & Chống gửi trùng
 - Test thử thôi
+- Con cò be bé 
+
 
